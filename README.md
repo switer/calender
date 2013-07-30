@@ -1,4 +1,4 @@
 couter
 ======
 
-A counter
+The calendar counter for daily counting
